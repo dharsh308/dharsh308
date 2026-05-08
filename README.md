@@ -64,7 +64,6 @@ const harsh = {
 
 ---
 
-
 # 📊 GitHub Stats
 
 <div align="center">
